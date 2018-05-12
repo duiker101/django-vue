@@ -1,0 +1,8 @@
+*.sqlite3
+.idea
+*.iml
+node_modules
+webpack-stats.json
+*.pyc
+__pycache__
+.DS_Store

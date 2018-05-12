@@ -1,0 +1,6 @@
+template_src
+test
+Makefile
+*.pyc
+__pycache__
+.DS_Store
